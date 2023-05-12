@@ -1,3 +1,4 @@
+<a href="https://zenodo.org/badge/latestdoi/639820962"><img src="https://zenodo.org/badge/639820962.svg" alt="DOI"></a>
 # CasTuner
 
 Code associated with the manuscript 
